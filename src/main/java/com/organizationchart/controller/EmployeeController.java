@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:3306")
-@CrossOrigin(origins = "http//localhost:3306")
 @RequestMapping("/api/employees")
 public class EmployeeController {
 
